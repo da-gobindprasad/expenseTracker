@@ -1,2 +1,2 @@
 # expenseTracker
-Expense Tracker
+Expense Tracker Django Project
